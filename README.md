@@ -40,7 +40,7 @@ cd Claude-Assist
 pip install -r requirements.txt
 ```
 
-3. Set up environment variables 
+3. Set up environment variables:
 Create a `.env` file in the root directory and add your Claude API key:
 ```env
 ANTHROPIC_API_KEY="your_api_key_here"
